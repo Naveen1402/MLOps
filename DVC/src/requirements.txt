@@ -16,6 +16,7 @@ lightgbm
 shap
 tf-keras
 bertopic
+pdfplumber
 -e . 
 
 # pip install -e . to install the package in editable mode and include all dependencies listed in setup.py
