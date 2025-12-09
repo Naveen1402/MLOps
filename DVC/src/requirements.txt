@@ -1,0 +1,23 @@
+numpy
+pandas
+Pyyaml
+DVC
+scikit-learn
+nltk
+cufflinks
+plotly
+nbformat
+vaderSentiment
+spacy
+textstat
+wordcloud
+xgboost
+lightgbm
+shap
+tf-keras
+bertopic
+-e . 
+
+# pip install -e . to install the package in editable mode and include all dependencies listed in setup.py
+# also create a local package for src directory
+# at the end it will create a info folder under directory
